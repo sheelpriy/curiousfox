@@ -4,12 +4,14 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Name: sheelpriy | Tech Lead | https:/twitter.com/sheelpriy1
 
 # THANKS
 
     <name>
+    Name : https://sheelpriy.guthub.io
 
 # TECHNOLOGY COLOPHON
 
     CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    Nginx Server Configs, jQuery, Modernizr, Normalize.css, AWS, GIthub pipeline
