@@ -6,27 +6,27 @@
   "background_color": "#fff",
   "description": "inteact with future you with First hand experience ",
   "icons": [{
-    "src": "img/touch/homescreen48.png",
+    "src": "img/logo/qfox_blue.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "img/touch/homescreen72.png",
+    "src": "img/logo/qfox_blue.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "img/touch/homescreen96.png",
+    "src": "img/logo/qfox_blue.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "img/touch/homescreen144.png",
+    "src": "img/logo/qfox_blue.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "img/touch/homescreen168.png",
+    "src": "img/logo/qfox_blue.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "img/touch/homescreen192.png",
+    "src": "img/logo/qfox_blue.png",
     "sizes": "192x192",
     "type": "image/png"
   }]
